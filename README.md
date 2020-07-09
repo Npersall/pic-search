@@ -11,7 +11,7 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-![CarSEarch](//img.jpg)
+![CarSEarch](https://github.com/Npersall/pic-search/blob/master/Screen%20Shot%202020-07-08%20at%205.24.40%20PM.png)
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg)
 
